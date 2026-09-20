@@ -17,12 +17,12 @@ This GitHub serves as the technical portfolio for projects developed through Boy
 
 ## Featured Projects
 
-### 🐧 Penguin Clustering Analysis
+### 🐧 [Penguin Clustering Analysis](https://github.com/michaelwboyce/penguin-clustering-analysis)
 Unsupervised machine learning project using K-Means clustering to identify natural groupings within penguin data.
 
 **Skills:** Python, pandas, scikit-learn, preprocessing, feature scaling, clustering
 
-### 💳 Credit Card Approval Prediction
+### 💳 [Credit Card Approval Prediction](https://github.com/michaelwboyce/credit-card-approval-ml)
 Supervised machine learning project demonstrating an end-to-end classification workflow, including data preprocessing, Logistic Regression, model evaluation, cross-validation, and hyperparameter tuning.
 
 **Skills:** Python, pandas, NumPy, scikit-learn, Logistic Regression, GridSearchCV
